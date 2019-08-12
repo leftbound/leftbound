@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://leftbound.com/leftbound/blog/2019/08/13/Anfibio-Fly-Paddle/</loc>
+<lastmod>2019-08-13T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://leftbound.com/leftbound/blog/2017/01/11/MYOG-Monopod-Pole/</loc>
 <lastmod>2017-01-11T00:00:00+02:00</lastmod>
 </url>
@@ -165,10 +169,6 @@
 <lastmod>2013-10-23T00:00:00+03:00</lastmod>
 </url>
 <url>
-<loc>http://leftbound.com/leftbound/blog/2013/10/09/Autumn-Tones/</loc>
-<lastmod>2013-10-09T00:00:00+03:00</lastmod>
-</url>
-<url>
 <loc>http://leftbound.com/leftbound/blog/2013/09/22/Full-Monty-At-Vantaanjoki/</loc>
 <lastmod>2013-09-22T00:00:00+03:00</lastmod>
 </url>
@@ -191,10 +191,6 @@
 <url>
 <loc>http://leftbound.com/leftbound/blog/2012/12/20/Pogies/</loc>
 <lastmod>2012-12-20T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://leftbound.com/leftbound/blog/2012/12/03/Enter-Winter/</loc>
-<lastmod>2012-12-03T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://leftbound.com/leftbound/blog/2012/11/11/Keravanjoki-Reloaded/</loc>
@@ -284,9 +280,6 @@
 <loc>http://leftbound.com/leftbound/blog/categories/gear/</loc>
 </url>
 <url>
-<loc>http://leftbound.com/leftbound/blog/categories/photography/</loc>
-</url>
-<url>
 <loc>http://leftbound.com/leftbound/blog/categories/packsailing/</loc>
 </url>
 <url>
@@ -294,6 +287,9 @@
 </url>
 <url>
 <loc>http://leftbound.com/leftbound/blog/categories/stoves/</loc>
+</url>
+<url>
+<loc>http://leftbound.com/leftbound/blog/categories/photography/</loc>
 </url>
 <url>
 <loc>http://leftbound.com/leftbound/blog/categories/han/</loc>
